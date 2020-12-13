@@ -1,3 +1,3 @@
-![Tateru logo](tateru-web.png)
+![Tateru logo](tateru-web-small.png)
 
 Hello world!
